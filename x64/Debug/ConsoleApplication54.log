@@ -1,0 +1,10 @@
+﻿  ConsoleApplication54.cpp
+C:\Users\User\source\repos\ConsoleApplication54\ConsoleApplication54\ConsoleApplication54.cpp(18,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\ConsoleApplication54\ConsoleApplication54\ConsoleApplication54.cpp(16,10): message : while compiling class template member function 'void Priority_Queue<int>::push_back(const T &)'
+          with
+          [
+              T=int
+          ]
+C:\Users\User\source\repos\ConsoleApplication54\ConsoleApplication54\ConsoleApplication54.cpp(89,17): message : see the first reference to 'Priority_Queue<int>::push_back' in 'main'
+C:\Users\User\source\repos\ConsoleApplication54\ConsoleApplication54\ConsoleApplication54.cpp(88,25): message : see reference to class template instantiation 'Priority_Queue<int>' being compiled
+  ConsoleApplication54.vcxproj -> C:\Users\User\source\repos\ConsoleApplication54\x64\Debug\ConsoleApplication54.exe
